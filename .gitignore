@@ -5,3 +5,4 @@ node_modules
 .sample.env
 .replit
 package-lock.json
+replit.nix
