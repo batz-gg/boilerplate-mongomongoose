@@ -1,2 +1,7 @@
 .env
 node_modules
+.gitattributes
+.prettierignore
+.sample.env
+.replit
+package-lock.json
